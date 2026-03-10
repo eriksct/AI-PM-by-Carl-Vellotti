@@ -42,8 +42,8 @@ TaskFlow is a project management SaaS for remote teams. Think **"Asana meets Lin
 - Not overwhelming with options
 
 **5. Beautiful and functional**
-- Design quality matters
-- UI guides users to success
+- Design quality matters. 
+- UI guides users to success 
 - Delightful micro-interactions
 
 ---
